@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LazyPotato
-- 👀 I’m interested in software engineering and cyber security.
+- 👀 Currently studying Software Engineering , Cyber Security and Linux System Administration.
 - 🌱 I’m currently learning cyber security and mastering python.
 - 📫 How to reach me LazyPotatoツ#5166
 

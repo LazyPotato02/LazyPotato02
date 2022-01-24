@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LazyPotato
-- 👀 Currently studying Software Engineering , Cyber Security
+- 👀 Currently studying Software Engineering and Cyber Security
 - 📫 How to reach me Discord -> LazyPotatoツ#5166
 - 💻 Linux System Administrator 💻
 

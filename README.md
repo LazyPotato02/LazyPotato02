@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LazyPotato
 - 👀 Currently studying Software Engineering , Cyber Security and 
 - 🌱 I’m currently learning Cyber Security and Software Engineering with Python.
-- 📫 How to reach me LazyPotatoツ#5166
+- 📫 How to reach me Discord -> LazyPotatoツ#5166
 - 💻 Linux System Administrator 💻
 
 <!---

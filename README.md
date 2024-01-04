@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Stoyan Kanev
-- 📫 How to reach me Discord -> LazyPotatoツ#5166
+- 📫 How to reach me Discord -> lazypotato1
 - 💻 Linux System Administrator 💻
 - 💻 Python Web Developer 💻
 <!---

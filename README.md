@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Stoyan Kanev
 - 📫 How to reach me Discord -> lazypotato1 | LinkedIn -> Stoyan Kanev 
 
 - 💻 Linux System Administrator 💻

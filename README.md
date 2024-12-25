@@ -21,8 +21,3 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LazyPotato02&layout=compact&theme=radical)
 
 ---
-
-### 🔥 Streaks
-[![GitHub Streak](https://streak-stats.demolab.com?user=LazyPotato02&theme=radical)](https://git.io/streak-stats)
-
----

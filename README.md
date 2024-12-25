@@ -6,8 +6,7 @@
 
 ### 🔗 Connect with Me
 - 📫 **Discord**: lazypotato1
-- 🌐 **[LinkedIn](https://www.linkedin.com/in/stoyan-kanev)**
-
+- 🌐 **[LinkedIn](https://www.linkedin.com/in/stoyan-kanev-042386207/)**
 ---
 
 ### 🛠️ Skills
